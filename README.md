@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web based UI automation, desktop based automation and API automation.**
 
-- ⚡ Fun fact **As a kid, i used to dream of taking admission in "Hogwarts School of Witchcraft and Wizardry" and become a Wizard(🧙‍♀️). :D**
+- ⚡ Fun fact: **As a kid, i used to dream of taking admission in "Hogwarts School of Witchcraft and Wizardry" to become a Wizard(🧙‍♀️). :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
